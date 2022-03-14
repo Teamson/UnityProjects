@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 2ff88ae471595034e89edfb6f4dec781
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArchBroken01_0
+    100002: ArchBroken01_001
+    100004: ArchBroken01_002
+    100006: cloud 12
+    100008: Ground_0
+    100010: OakTreeBaseBroken01_0
+    100012: OakTreeBroken02_0
+    100014: Paveway01_0
+    100016: Pillar01_0
+    100018: Pillar01_001
+    100020: PillarBroken01_0
+    100022: RockModular02_0
+    100024: RockModular02_001
+    100026: RockModular02_002
+    100028: RockModular07_0
+    100030: //RootNode
+    100032: transform22_0
+    100034: Tree_002
+    100036: Tree_004
+    100038: Tree_006
+    100040: Tree_007
+    100042: Tree_008
+    100044: Tree_1
+    100046: Tree_2
+    100048: Tree_3
+    400000: ArchBroken01_0
+    400002: ArchBroken01_001
+    400004: ArchBroken01_002
+    400006: cloud 12
+    400008: Ground_0
+    400010: OakTreeBaseBroken01_0
+    400012: OakTreeBroken02_0
+    400014: Paveway01_0
+    400016: Pillar01_0
+    400018: Pillar01_001
+    400020: PillarBroken01_0
+    400022: RockModular02_0
+    400024: RockModular02_001
+    400026: RockModular02_002
+    400028: RockModular07_0
+    400030: //RootNode
+    400032: transform22_0
+    400034: Tree_002
+    400036: Tree_004
+    400038: Tree_006
+    400040: Tree_007
+    400042: Tree_008
+    400044: Tree_1
+    400046: Tree_2
+    400048: Tree_3
+    2100000: ArchBroken01_a
+    2100002: T_ENV_snow_01_dark_BC
+    2100004: Pillar01_a
+    2100006: PillarBroken01_a
+    2100008: OakTreeBaseBroken01_a
+    2100010: OakTreeBroken02_a
+    2100012: transform22_0
+    2100014: T_ENV_snow_01_BC
+    2100016: Tree_1
+    2300000: ArchBroken01_0
+    2300002: ArchBroken01_001
+    2300004: ArchBroken01_002
+    2300006: cloud 12
+    2300008: Ground_0
+    2300010: OakTreeBaseBroken01_0
+    2300012: OakTreeBroken02_0
+    2300014: Paveway01_0
+    2300016: Pillar01_0
+    2300018: Pillar01_001
+    2300020: PillarBroken01_0
+    2300022: RockModular02_0
+    2300024: RockModular02_001
+    2300026: RockModular02_002
+    2300028: RockModular07_0
+    2300030: transform22_0
+    2300032: Tree_002
+    2300034: Tree_004
+    2300036: Tree_006
+    2300038: Tree_007
+    2300040: Tree_008
+    2300042: Tree_1
+    2300044: Tree_2
+    2300046: Tree_3
+    3300000: ArchBroken01_0
+    3300002: ArchBroken01_001
+    3300004: ArchBroken01_002
+    3300006: cloud 12
+    3300008: Ground_0
+    3300010: OakTreeBaseBroken01_0
+    3300012: OakTreeBroken02_0
+    3300014: Paveway01_0
+    3300016: Pillar01_0
+    3300018: Pillar01_001
+    3300020: PillarBroken01_0
+    3300022: RockModular02_0
+    3300024: RockModular02_001
+    3300026: RockModular02_002
+    3300028: RockModular07_0
+    3300030: transform22_0
+    3300032: Tree_002
+    3300034: Tree_004
+    3300036: Tree_006
+    3300038: Tree_007
+    3300040: Tree_008
+    3300042: Tree_1
+    3300044: Tree_2
+    3300046: Tree_3
+    4300000: ArchBroken01_0
+    4300002: Ground_0
+    4300004: Pillar01_0
+    4300006: PillarBroken01_0
+    4300008: OakTreeBaseBroken01_0
+    4300010: OakTreeBroken02_0
+    4300012: transform22_0
+    4300014: ArchBroken01_001
+    4300016: Tree_2
+    4300018: Paveway01_0
+    4300020: Tree_002
+    4300022: RockModular02_0
+    4300024: RockModular07_0
+    4300026: RockModular02_001
+    4300028: Pillar01_001
+    4300030: ArchBroken01_002
+    4300032: Tree_1
+    4300034: Tree_3
+    4300036: cloud 12
+    4300038: Tree_004
+    4300040: Tree_006
+    4300042: Tree_007
+    4300044: Tree_008
+    4300046: RockModular02_002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

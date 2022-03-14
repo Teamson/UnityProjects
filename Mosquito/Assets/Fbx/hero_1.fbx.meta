@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: d06b5d98bf9a21043b7aea5fda3ebe23
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: b_Head
+    100002: b_L Calf
+    100004: b_L Foot
+    100006: b_L Forearm
+    100008: b_L Hand
+    100010: b_L Thigh
+    100012: b_L UpperArm
+    100014: b_Pelvis
+    100016: b_R Calf
+    100018: b_R Foot
+    100020: b_R Forearm
+    100022: b_R Hand
+    100024: b_R Thigh
+    100026: b_R UpperArm
+    100028: b_Spine
+    100030: b_Spine1
+    100032: Bip001
+    100034: Bip001 Footsteps
+    100036: Bip001 Head
+    100038: Bip001 HeadNub
+    100040: Bip001 L Calf
+    100042: Bip001 L Clavicle
+    100044: Bip001 L Finger0
+    100046: Bip001 L Finger0Nub
+    100048: Bip001 L Foot
+    100050: Bip001 L Forearm
+    100052: Bip001 L Hand
+    100054: Bip001 L Thigh
+    100056: Bip001 L Toe0
+    100058: Bip001 L Toe0Nub
+    100060: Bip001 L UpperArm
+    100062: Bip001 Neck
+    100064: Bip001 Pelvis
+    100066: Bip001 R Calf
+    100068: Bip001 R Clavicle
+    100070: Bip001 R Finger0
+    100072: Bip001 R Finger0Nub
+    100074: Bip001 R Foot
+    100076: Bip001 R Forearm
+    100078: Bip001 R Hand
+    100080: Bip001 R Thigh
+    100082: Bip001 R Toe0
+    100084: Bip001 R Toe0Nub
+    100086: Bip001 R UpperArm
+    100088: Bip001 Spine
+    100090: Bip001 Spine1
+    100092: Dummy001
+    100094: Dummy002
+    100096: Dummy003
+    100098: Dummy004
+    100100: Dummy005
+    100102: Dummy006
+    100104: Dummy007
+    100106: Face_1
+    100108: Hair_1
+    100110: Hair_2
+    100112: hair_3
+    100114: Hair_4
+    100116: Hair_5
+    100118: Hero_1
+    100120: //RootNode
+    400000: b_Head
+    400002: b_L Calf
+    400004: b_L Foot
+    400006: b_L Forearm
+    400008: b_L Hand
+    400010: b_L Thigh
+    400012: b_L UpperArm
+    400014: b_Pelvis
+    400016: b_R Calf
+    400018: b_R Foot
+    400020: b_R Forearm
+    400022: b_R Hand
+    400024: b_R Thigh
+    400026: b_R UpperArm
+    400028: b_Spine
+    400030: b_Spine1
+    400032: Bip001
+    400034: Bip001 Footsteps
+    400036: Bip001 Head
+    400038: Bip001 HeadNub
+    400040: Bip001 L Calf
+    400042: Bip001 L Clavicle
+    400044: Bip001 L Finger0
+    400046: Bip001 L Finger0Nub
+    400048: Bip001 L Foot
+    400050: Bip001 L Forearm
+    400052: Bip001 L Hand
+    400054: Bip001 L Thigh
+    400056: Bip001 L Toe0
+    400058: Bip001 L Toe0Nub
+    400060: Bip001 L UpperArm
+    400062: Bip001 Neck
+    400064: Bip001 Pelvis
+    400066: Bip001 R Calf
+    400068: Bip001 R Clavicle
+    400070: Bip001 R Finger0
+    400072: Bip001 R Finger0Nub
+    400074: Bip001 R Foot
+    400076: Bip001 R Forearm
+    400078: Bip001 R Hand
+    400080: Bip001 R Thigh
+    400082: Bip001 R Toe0
+    400084: Bip001 R Toe0Nub
+    400086: Bip001 R UpperArm
+    400088: Bip001 Spine
+    400090: Bip001 Spine1
+    400092: Dummy001
+    400094: Dummy002
+    400096: Dummy003
+    400098: Dummy004
+    400100: Dummy005
+    400102: Dummy006
+    400104: Dummy007
+    400106: Face_1
+    400108: Hair_1
+    400110: Hair_2
+    400112: hair_3
+    400114: Hair_4
+    400116: Hair_5
+    400118: Hero_1
+    400120: //RootNode
+    2100000: woman01
+    2100002: woman02
+    2100004: woman03
+    2100006: woman04
+    2100008: woman05
+    4300000: Hero_1
+    4300002: Face_1
+    4300004: Hair_1
+    4300006: Hair_2
+    4300008: hair_3
+    4300010: Hair_4
+    4300012: Hair_5
+    7400000: idle
+    7400002: SLAP
+    7400004: dry
+    9500000: //RootNode
+    13700000: Face_1
+    13700002: Hair_1
+    13700004: Hair_2
+    13700006: hair_3
+    13700008: Hair_4
+    13700010: Hair_5
+    13700012: Hero_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woman01
+    second: {fileID: 2100000, guid: eada61b1f26f2734d9d28c7aa1484863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woman02
+    second: {fileID: 2100000, guid: 5ef12df8e0c65534e8f4d62c9725cb22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woman03
+    second: {fileID: 2100000, guid: 2fbca4f476f8f8644888dba357c52e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woman04
+    second: {fileID: 2100000, guid: d98f65479bfaee64a84803dc5b2169ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woman05
+    second: {fileID: 2100000, guid: 10309c52c14c90144a57951ae741cfdf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SLAP
+      takeName: SLAP
+      firstFrame: 60
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dry
+      takeName: dry
+      firstFrame: 96
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
