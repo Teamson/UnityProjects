@@ -2,32 +2,32 @@
 <LayaExportSetting>
   <config>1</config>
   <config1>
-    <FirstlevelMenu>0</FirstlevelMenu>
+    <FirstlevelMenu>1</FirstlevelMenu>
     <Scenes>False</Scenes>
     <ScenesDir>
     </ScenesDir>
-    <MeshSetting>False</MeshSetting>
+    <MeshSetting>True</MeshSetting>
     <IgnoreVerticesUV>False</IgnoreVerticesUV>
     <IgnoreVerticesNormal>False</IgnoreVerticesNormal>
     <IgnoreVerticesTangent>False</IgnoreVerticesTangent>
     <IgnoreVerticesColor>False</IgnoreVerticesColor>
-    <CompressMesh>False</CompressMesh>
-    <AnimatorCompress>False</AnimatorCompress>
+    <CompressMesh>True</CompressMesh>
+    <AnimatorCompress>True</AnimatorCompress>
     <TexAnimatorSetting>False</TexAnimatorSetting>
     <TexAnimatorbakeFPS>30</TexAnimatorbakeFPS>
     <TexAnimationSocket>False</TexAnimationSocket>
-    <TerrainSetting>False</TerrainSetting>
+    <TerrainSetting>True</TerrainSetting>
     <TextureSetting>False</TextureSetting>
     <JPGQuality>75</JPGQuality>
     <PVRQuality>2</PVRQuality>
     <ConvertTerrain>True</ConvertTerrain>
     <TerrainToMeshResolution>8</TerrainToMeshResolution>
-    <GameObjectSetting>False</GameObjectSetting>
+    <GameObjectSetting>True</GameObjectSetting>
     <IgnoreNullGameObject>True</IgnoreNullGameObject>
-    <IgnoreNotActiveGameObject>False</IgnoreNotActiveGameObject>
+    <IgnoreNotActiveGameObject>True</IgnoreNotActiveGameObject>
     <OptimizeGameObject>False</OptimizeGameObject>
-    <BatchMade>False</BatchMade>
-    <OtherSetting>False</OtherSetting>
+    <BatchMade>True</BatchMade>
+    <OtherSetting>True</OtherSetting>
     <CoverOriginalFile>True</CoverOriginalFile>
     <CustomizeDirectory>False</CustomizeDirectory>
     <CustomizeDirectoryName>
@@ -35,8 +35,7 @@
     <Ios>False</Ios>
     <Android>False</Android>
     <Conventional>True</Conventional>
-    <SavePath>
-    </SavePath>
+    <SavePath>E:/FDProjects/Projects/MonsterRunner/bin</SavePath>
     <ScrollPositionY>0</ScrollPositionY>
   </config1>
   <config2>
@@ -192,7 +191,7 @@
     <ScrollPositionY>0</ScrollPositionY>
   </config5>
   <language>1</language>
-  <time>0</time>
-  <saveAcount></saveAcount>
-  <savePassWorld></savePassWorld>
+  <time>1647417294</time>
+  <saveAcount>13512755610</saveAcount>
+  <savePassWorld>wshts123</savePassWorld>
 </LayaExportSetting>
