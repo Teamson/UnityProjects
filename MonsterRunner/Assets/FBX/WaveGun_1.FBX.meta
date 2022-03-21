@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 39acf0eebe5060c4a8698ea3b9deaef0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: WaveGun_1
+    100004: WaveGun_2
+    100006: WT_q01
+    100008: WT_q02
+    100010: WT_q03
+    100012: WT_q04
+    100014: WT_q05
+    100016: WT_q06
+    100018: WT_q07
+    100020: WT_q08
+    100022: WT_q09
+    100024: WT_q10
+    100026: WT_q11
+    100028: WT_q12
+    100030: WT_q13
+    100032: WT_q14
+    100034: WT_q15
+    100036: WT_q16
+    100038: WT_q17
+    100040: WT_q18
+    100042: WT_q19
+    100044: WT_q20
+    100046: WT_q21
+    100048: WT_q22
+    100050: WT_q23
+    100052: WT_q24
+    400000: //RootNode
+    400002: WaveGun_1
+    400004: WaveGun_2
+    400006: WT_q01
+    400008: WT_q02
+    400010: WT_q03
+    400012: WT_q04
+    400014: WT_q05
+    400016: WT_q06
+    400018: WT_q07
+    400020: WT_q08
+    400022: WT_q09
+    400024: WT_q10
+    400026: WT_q11
+    400028: WT_q12
+    400030: WT_q13
+    400032: WT_q14
+    400034: WT_q15
+    400036: WT_q16
+    400038: WT_q17
+    400040: WT_q18
+    400042: WT_q19
+    400044: WT_q20
+    400046: WT_q21
+    400048: WT_q22
+    400050: WT_q23
+    400052: WT_q24
+    2100000: WaveGun_1
+    2100002: WT_q1
+    2100004: WT_q2
+    2100006: WT_q3
+    2300000: WaveGun_1
+    2300002: WaveGun_2
+    2300004: WT_q01
+    2300006: WT_q02
+    2300008: WT_q03
+    2300010: WT_q04
+    2300012: WT_q05
+    2300014: WT_q06
+    2300016: WT_q07
+    2300018: WT_q08
+    2300020: WT_q09
+    2300022: WT_q10
+    2300024: WT_q11
+    2300026: WT_q12
+    2300028: WT_q13
+    2300030: WT_q14
+    2300032: WT_q15
+    2300034: WT_q16
+    2300036: WT_q17
+    2300038: WT_q18
+    2300040: WT_q19
+    2300042: WT_q20
+    2300044: WT_q21
+    2300046: WT_q22
+    2300048: WT_q23
+    2300050: WT_q24
+    3300000: WaveGun_1
+    3300002: WaveGun_2
+    3300004: WT_q01
+    3300006: WT_q02
+    3300008: WT_q03
+    3300010: WT_q04
+    3300012: WT_q05
+    3300014: WT_q06
+    3300016: WT_q07
+    3300018: WT_q08
+    3300020: WT_q09
+    3300022: WT_q10
+    3300024: WT_q11
+    3300026: WT_q12
+    3300028: WT_q13
+    3300030: WT_q14
+    3300032: WT_q15
+    3300034: WT_q16
+    3300036: WT_q17
+    3300038: WT_q18
+    3300040: WT_q19
+    3300042: WT_q20
+    3300044: WT_q21
+    3300046: WT_q22
+    3300048: WT_q23
+    3300050: WT_q24
+    4300000: WaveGun_2
+    4300002: WaveGun_1
+    4300004: WT_q14
+    4300006: WT_q18
+    4300008: WT_q02
+    4300010: WT_q06
+    4300012: WT_q01
+    4300014: WT_q03
+    4300016: WT_q04
+    4300018: WT_q05
+    4300020: WT_q07
+    4300022: WT_q08
+    4300024: WT_q09
+    4300026: WT_q10
+    4300028: WT_q11
+    4300030: WT_q12
+    4300032: WT_q13
+    4300034: WT_q15
+    4300036: WT_q16
+    4300038: WT_q17
+    4300040: WT_q19
+    4300042: WT_q20
+    4300044: WT_q21
+    4300046: WT_q22
+    4300048: WT_q23
+    4300050: WT_q24
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WT_q1
+    second: {fileID: 2100000, guid: 1ff349fad1a53a14b96f30ce18b79257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WT_q2
+    second: {fileID: 2100000, guid: c2c80ac797261e744be03b305c845f5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WT_q3
+    second: {fileID: 2100000, guid: 96bd339ec9d5acb478c85a10234b6339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaveGun_1
+    second: {fileID: 2100000, guid: f6c6f44bbe5b5af48a25053b091cdda8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
