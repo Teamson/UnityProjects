@@ -2,7 +2,7 @@
 <LayaExportSetting>
   <config>1</config>
   <config1>
-    <FirstlevelMenu>0</FirstlevelMenu>
+    <FirstlevelMenu>1</FirstlevelMenu>
     <Scenes>False</Scenes>
     <ScenesDir>
     </ScenesDir>
@@ -35,7 +35,7 @@
     <Ios>False</Ios>
     <Android>False</Android>
     <Conventional>True</Conventional>
-    <SavePath>E:/FDProjects/Projects/MonsterRunner/bin</SavePath>
+    <SavePath>E:/FDProjects/Projects/Wx/MonsterRunner/bin</SavePath>
     <ScrollPositionY>0</ScrollPositionY>
   </config1>
   <config2>
@@ -191,7 +191,7 @@
     <ScrollPositionY>0</ScrollPositionY>
   </config5>
   <language>1</language>
-  <time>1647841072</time>
+  <time>1647931316</time>
   <saveAcount>13512755610</saveAcount>
   <savePassWorld>wshts123</savePassWorld>
 </LayaExportSetting>
