@@ -9,11 +9,12 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Skirt_Colors_1
   m_Shader: {fileID: 4800000, guid: d75dc51a39299a540b938f730a165b63, type: 3}
-  m_ShaderKeywords: EnableLighting _ALPHABLEND_OFF _ALPHATEST_OFF _ISVERTEXCOLOR_OFF
+  m_ShaderKeywords: EnableAlphaCutoff EnableLighting _ALPHABLEND_OFF _ALPHATEST_OFF
+    _ALPHATEST_ON _ISVERTEXCOLOR_OFF
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2000
+  m_CustomRenderQueue: 2450
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -62,9 +63,9 @@ Material:
     m_Floats:
     - _AlbedoIntensity: 1
     - _AlphaBlend: 0
-    - _AlphaTest: 0
+    - _AlphaTest: 1
     - _BumpScale: 1
-    - _Cull: 2
+    - _Cull: 0
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -74,11 +75,11 @@ Material:
     - _IsVertexColor: 0
     - _Lighting: 0
     - _Metallic: 0
-    - _Mode: 0
+    - _Mode: 1
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _RenderQueue: 2000
-    - _Shininess: 0.078125
+    - _Shininess: 0.133
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SpecularSource: 0
@@ -89,4 +90,4 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
-    - _SpecColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.41509432, g: 0.41509432, b: 0.41509432, a: 1}
