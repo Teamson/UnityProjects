@@ -513,7 +513,7 @@ ModelImporter:
       name: character_bones|gunman_win_1
       takeName: character_bones|gunman_win_1
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 143
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -653,7 +653,7 @@ ModelImporter:
       name: character_bones|gunman_run
       takeName: character_bones|gunman_run
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 15
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -681,7 +681,7 @@ ModelImporter:
       name: character_bones|hunter_run
       takeName: character_bones|hunter_run
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 15
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -709,7 +709,7 @@ ModelImporter:
       name: character_bones|sword_run
       takeName: character_bones|sword_run
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 15
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -737,7 +737,7 @@ ModelImporter:
       name: character_bones|trapman_run
       takeName: character_bones|trapman_run
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 15
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -765,7 +765,7 @@ ModelImporter:
       name: character_bones|hammer_run
       takeName: character_bones|hammer_run
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 20
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -793,7 +793,7 @@ ModelImporter:
       name: character_bones|sword_attack
       takeName: character_bones|sword_attack
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 19
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -821,7 +821,7 @@ ModelImporter:
       name: character_bones|gunman_attack
       takeName: character_bones|gunman_attack
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 19
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -849,7 +849,7 @@ ModelImporter:
       name: character_bones|hunter_attack
       takeName: character_bones|hunter_attack
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 20
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -877,7 +877,7 @@ ModelImporter:
       name: character_bones|hammer_attack
       takeName: character_bones|hammer_attack
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 36.25
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -905,7 +905,7 @@ ModelImporter:
       name: character_bones|trapman_attack
       takeName: character_bones|trapman_attack
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 16
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
